@@ -5,6 +5,9 @@ The program has an option to use the GUI, which dropps a needle every 10th of a 
 
 # Variables
 You can tweak these variables to get a closer value to Pi
+
 [t] The distance in pixels between each of the vertical equally spaced lines
+
 [l] The length of a needle
+
 [n] The number of line dropped per call of the drawline method
